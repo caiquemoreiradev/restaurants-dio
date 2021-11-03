@@ -1,0 +1,208 @@
+{
+    "restaurant": [
+        {
+            "name": "Hamburgueria do Gordinho",
+            "image": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/e268bd24-f566-432e-8873-e4947ece546e/202104211142_AaGA_i.png",
+            "stars": "4,5",
+            "price": "$$",
+            "location": "4,5 km",
+            "badge":  "10% desconto",
+            "burguers": [
+                {
+                    "image": "https://www.cidadeoferta.com.br/storage/offers/5490-taura-hamburgueria-artesanal-londrina-mestre-cheddar-2.jpg",
+                    "name":"Burguer Mestre Cheddar",
+                    "stars": "4,5",
+                    "price": 22.90
+                },
+                {
+                    "image": "https://files.menudino.com/cardapios/20651/179.jpg",
+                    "name":"MR. Faminto",
+                    "stars": "4,9",
+                    "price": 32.90
+                },
+                {
+                    "image": "https://files.menudino.com/cardapios/20651/217.jpg",
+                    "name":"Bayonetta",
+                    "stars": "4,5",
+                    "price": 19.90
+                }
+            ],
+            "bebidas": [
+                {
+                    "image": "https://utilplast.vteximg.com.br/arquivos/ids/294555-1000-1000/pink-lemonade.jpg?v=637427065075530000",
+                    "name":"Pink Limonade",
+                    "stars": "4,5",
+                    "price": 12.90
+                },
+                {
+                    "image": "https://img.itdg.com.br/tdg/images/recipes/000/098/564/333992/333992_original.jpg?w=1200",
+                    "name":"Suco de laranja",
+                    "stars": "4,8",
+                    "price": 10.50
+                }
+            ],
+            "porcoes": [
+                {
+                    "image": "https://cdn.diariodoturismo.com.br/wp-content/uploads/2020/01/DSC_4758-696x464.jpg",
+                    "name":"Montanha Frita",
+                    "stars": "4,2",
+                    "price": 15.90
+                }
+            ]
+        },
+        {
+            "name": "MR. Burguer Artesanal",
+            "image": "https://static.tonolucro.com/images/empresa/B601847639df13.jpg",
+            "stars": "4,8",
+            "price": "$$",
+            "location": "3,7 km",
+            "badge":  "Frete grátis",
+            "burguers": [
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/6e72f0ad-b838-481f-b12a-7f33eff8d08d/202005062336_zfxh_.jpeg",
+                    "name":"Mega Bacon",
+                    "stars": "4,5",
+                    "price": 34.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/6e72f0ad-b838-481f-b12a-7f33eff8d08d/202005062335_vPpq_.jpeg",
+                    "name":"Bacon EGG",
+                    "stars": "4,9",
+                    "price": 36.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/6e72f0ad-b838-481f-b12a-7f33eff8d08d/202006201935_SDRE_.jpeg",
+                    "name":"Duplex Bacon",
+                    "stars": "4,5",
+                    "price": 42.90
+                }
+            ],
+            "bebidas": [
+                {
+                    "image": "https://t1.uc.ltmcdn.com/pt/images/2/0/4/como_fazer_suco_de_abacaxi_15402_orig.jpg",
+                    "name":"Suco de Abacaxi",
+                    "stars": "4,5",
+                    "price": 16.90
+                },
+                {
+                    "image": "https://araujo.vteximg.com.br/arquivos/ids/4042618-1000-1000/07894900010015.jpg",
+                    "name":"Coca cola lata",
+                    "stars": "4,8",
+                    "price": 8.50
+                },
+                {
+                    "image": "https://m.media-amazon.com/images/I/71rrDtw8+DL._AC_SL1200_.jpg",
+                    "name":"Fanta laranja lata",
+                    "stars": "4,8",
+                    "price": 6.50
+                }
+            ],
+            "porcoes": [
+                {
+                    "image": "https://cdn.awsli.com.br/600x450/1236/1236041/produto/47096101/9cd3caf6d6.jpg",
+                    "name":"Porção Fritas simples",
+                    "stars": "4,2",
+                    "price": 11.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/6e72f0ad-b838-481f-b12a-7f33eff8d08d/202009041128_zlca_f.png",
+                    "name":"Fritas rústicas dupla",
+                    "stars": "4,2",
+                    "price": 17.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/6e72f0ad-b838-481f-b12a-7f33eff8d08d/202004271140_OOnt_.jpeg",
+                    "name":"Fritas rusticas individual",
+                    "stars": "4,2",
+                    "price": 10.90
+                }
+            ]
+        },
+        {
+            "name": "Espetacular Hamburgueria",
+            "image": "https://files.menudino.com/cardapios/20651/logo.png",
+            "stars": "4,0",
+            "price": "$$",
+            "location": "2,5 km",
+            "badge":  "Sobremesa grátis",
+            "burguers": [
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/7c68a6a9-b717-40d6-8eab-0c70f684905c/202103121857_pvOF_.jpeg",
+                    "name":"Burguer Catupiry Duplo",
+                    "stars": "4,5",
+                    "price": 18.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/7c68a6a9-b717-40d6-8eab-0c70f684905c/202103121902_fNpp_.jpeg",
+                    "name":"Bacon Duplo",
+                    "stars": "4,9",
+                    "price": 16.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/202009021410_XJoO_.jpeg",
+                    "name":"Burguer Bacon Monster",
+                    "stars": "4,5",
+                    "price": 42.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/202008112135_Yzc5_s.png",
+                    "name":"Burguer Super",
+                    "stars": "4,5",
+                    "price": 42.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/202008112130_KfSw_s.png",
+                    "name":"Burguer Pepper",
+                    "stars": "4,5",
+                    "price": 22.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/202008112131_Dlng_s.png",
+                    "name":"Burguer Premium",
+                    "stars": "4,5",
+                    "price": 42.90
+                }
+            ],
+            "bebidas": [
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/201912162109_q52b_g.jpg",
+                    "name":"Guaraná Lata",
+                    "stars": "4,5",
+                    "price": 16.90
+                },
+                {
+                    "image": "https://araujo.vteximg.com.br/arquivos/ids/4042618-1000-1000/07894900010015.jpg",
+                    "name":"Coca cola lata",
+                    "stars": "4,8",
+                    "price": 8.50
+                },
+                {
+                    "image": "https://m.media-amazon.com/images/I/71rrDtw8+DL._AC_SL1200_.jpg",
+                    "name":"Fanta laranja lata",
+                    "stars": "4,8",
+                    "price": 6.50
+                }
+            ],
+            "porcoes": [
+                {
+                    "image": "https://cdn.awsli.com.br/600x450/1236/1236041/produto/47096101/9cd3caf6d6.jpg",
+                    "name":"Porção Fritas simples",
+                    "stars": "4,2",
+                    "price": 11.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/201912182136_g0wB_.jpeg",
+                    "name":"Fritas bacon",
+                    "stars": "4,2",
+                    "price": 17.90
+                },
+                {
+                    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/653b5588-ba6a-42fa-baca-76c063678b85/201912182145_TFiI_.jpeg",
+                    "name":"Polenta",
+                    "stars": "4,2",
+                    "price": 10.90
+                }
+            ]
+        }
+    ]
+}
